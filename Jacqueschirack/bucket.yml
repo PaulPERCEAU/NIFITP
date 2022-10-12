@@ -3,5 +3,8 @@ flows:
     author: anonymous, created: 1665587794995, flowName: Jacque le bg, flowDesc: ''}
   61dadc3b-ea5e-4b82-9efc-7cbce3912c88: {ver: 1, file: jacques_le_Bg.snapshot, comments: '',
     author: anonymous, created: 1665587898127, flowName: jacques le Bg, flowDesc: ''}
+  ed26c8d7-78c1-48ac-864a-1c9277b00ef6: {ver: 1, file: raconte_pas_ta_vie.snapshot,
+    comments: Jacques le BG, author: anonymous, created: 1665587988928, flowName: raconte
+      pas ta vie, flowDesc: ''}
 layoutVer: 1
 bucketId: b198901c-b72b-479e-a443-1dcd5f6c6184
